@@ -1,5 +1,15 @@
 /* stylelint-disable selector-list-comma-newline-after */
-
+ /*
+ * custom
+ */ 
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url("../../images/summerPink.jpg");
+/*     background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em; */
+}
 .blog-header {
   line-height: 1;
   border-bottom: 1px solid #e5e5e5;
@@ -128,3 +138,5 @@ h1, h2, h3, h4, h5, h6 {
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
+  
+
